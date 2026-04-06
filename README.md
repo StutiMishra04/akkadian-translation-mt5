@@ -10,4 +10,12 @@
 </ul>
 
 <h3>Results</h3>
-<p>The validation score used was BLEU score equivalent to nearly ~ 15-16. Kaggle score was small as the dataset provided was limited and had generalization gap</p>
+<p>The validation score used was BLEU score equivalent to nearly ~ 15-16. Kaggle score was small as the dataset provided was limited and had generalization gap.</p>
+
+<h3>Challenges</h3>
+<ul>
+  <li>Very small Dataset (~1500 samples)</li>
+  <li>Lack of sentence-level alignment</li>
+  <li>Overfitting to training data</li>
+  <li>Hidden test set distribution mismatch</li>
+</ul>
