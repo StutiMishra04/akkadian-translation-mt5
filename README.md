@@ -19,3 +19,11 @@
   <li>Overfitting to training data</li>
   <li>Hidden test set distribution mismatch</li>
 </ul>
+
+<h3>Technical Stack</h3>
+<ul>
+  <li>Python</li>
+  <li>Hugging face sentence tranformers mt-5</li>
+  <li>PyTorch</li>
+  <li>Pandas</li>
+</ul>
