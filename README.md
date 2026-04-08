@@ -27,3 +27,11 @@
   <li>PyTorch</li>
   <li>Pandas</li>
 </ul>
+
+<h3>Future Improvements</h3>
+<ul>
+  <li>Sentence - Level Dataset construction</li>
+  <li>Text Normalization</li>
+  <li>Data Augmentation</li>
+  <li>Larger Training Corpus</li>
+</ul>
